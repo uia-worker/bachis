@@ -8,6 +8,9 @@ IS-105 Data communication and operating system
 IT and information systems, bachelor program
 IT and information systems, year study
 
+# Language of instruction
+Norwegian
+
 # Prerequisites
 No
 

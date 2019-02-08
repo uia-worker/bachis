@@ -1,4 +1,4 @@
-# Mal for emnebeskrivelser
+# _Mal for emnebeskrivelser_
 
 # Emnekode og emnenavn
 Merk at Studieutvalgets godkjenning av studieplan med emnebeskrivelser ikke innebærer en godkjenning av emnekodene. Emnekoder tildeles administrativt av Studieavdelingen.

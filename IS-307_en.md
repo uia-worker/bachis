@@ -8,6 +8,9 @@ IS-307 Practice Project
 IT and information systems, bachelor program
 Simple Topics
 
+# Language of instruction
+Norwegian
+
 # Prerequisites
 No
 

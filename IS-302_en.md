@@ -1,12 +1,12 @@
 # Subject code and subject name
-IS-302 Practice Project
+IS-302 Internship
 
 # Number of credits - starting semester - duration - place of teaching
 10 - Autumn - 1 semester - Kristiansand
 
 # Study program
-IT and information systems, bachelor program
-Simple Topics
+Bachelor's Programme in IT and Information Systems
+Free-standing Courses
 
 # Language of instruction
 Norwegian
@@ -23,13 +23,13 @@ After completing the course (project in an organization) the student will:
 * have gained a broad understanding of what is expected of knowledge and practical skills in a job situation
 
 # Contents
-The purpose is to give the student insight into and understanding of a specific organization's needs and processes related to an IT-related project. Current projects are often linked to innovation with ICT, system development or procurement, operation and maintenance of various types of IT and information systems. The projects can be carried out in organizations in the public or private sector. It is possible to carry out projects in the voluntary sector. By working for a long time with a concrete task in an organization, the student should gain insight into practical problem solving in a job situation. The content of the course is determined by the organisation's needs and according to the agreement entered into between the organization and the Department of Information Systems. The content of the project must be academically relevant to the specialization directions of the bachelor program in IT and information systems. Examples of current tasks may include:
+The purpose is to give the student insight into and understanding of a specific organization's needs and processes related to an IT-related project. Current projects are often linked to innovation with ICT, systems development or procurement, operation and maintenance of various types of IT and information systems. The projects can be carried out in organizations in the public or private sector. It is possible to carry out projects in the voluntary sector. By working for a long time with a concrete task in an organization, the student should gain insight into practical problem solving in a job situation. The content of the course is determined by the organisation's needs and according to the agreement entered into between the organization and the Department of Information Systems. The content of the project must be academically relevant to the specialization directions of the bachelor program in IT and information systems. Examples of current tasks may include:
 * various activities within innovation and system development including preparation of business plan
 * business case
-* preparation of requirement specification
+* preparation of requirements specification
 * analysis and design
 * programming tasks
-* installation, operation and maintenance of systems, databases, networks and the like
+* installation, operation and maintenance of systems, databases, networks etc.
 
 # Teaching and learning methods
 It is proposed that the student is placed in an organization approx. 8-10 hours a week throughout the semester. The projects can be carried out individually or in a team. The workload must be clarified in advance with the course coordinator.

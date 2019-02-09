@@ -5,8 +5,8 @@ IS-302 Internship
 10 - Autumn - 1 semester - Kristiansand
 
 # Study program
-Bachelor's Programme in IT and Information Systems
-Free-standing Courses
+* Bachelor's Programme in IT and Information Systems
+* Free-standing Courses
 
 # Language of instruction
 Norwegian

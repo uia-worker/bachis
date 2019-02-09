@@ -21,6 +21,7 @@ Students must have passed 90 credits. In special cases, students with fewer comp
 After completing the course (project in an organization) the student will:
 * have gained practical skills and experiences in innovation with IT, IT operations and / or system development
 * have gained a broad understanding of what is expected of knowledge and practical skills in a job situation
+* have gained a broad understanding of security aspects with information systems
 
 # Contents
 The purpose is to give the student insight into and understanding of a specific organization's needs and processes related to an IT-related project. Current projects are often linked to innovation with ICT, systems development or procurement, operation and maintenance of various types of IT and information systems. The projects can be carried out in organizations in the public or private sector. It is possible to carry out projects in the voluntary sector. By working for a long time with a concrete task in an organization, the student should gain insight into practical problem solving in a job situation. The content of the course is determined by the organisation's needs and according to the agreement entered into between the organization and the Department of Information Systems. The content of the project must be academically relevant to the specialization directions of the bachelor program in IT and information systems. Examples of current tasks may include:

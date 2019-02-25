@@ -19,14 +19,14 @@ The teaching is based on IS-100 and IS-111 (the new communication subject).
 
 # Learning outcome
 After completing the course, the students should be able to:
-* know how information is represented on a computer
+* understand how information is represented on a computer
 * evaluate basic concepts of operating system
 * be familiar with security challenges with operating systems and data communications
-* Recreate and create applications based on understanding basic operating system and data communication principles
+* create (and recreate) applications based on understanding basic operating system and data communication principles
 * explain protocols for data communication and how different communication layers collaborate in a communication process
-* Refer to differences between proprietary and free software operating systems
-* Explain the possibilities of developing communication technology for businesses
-* know the importance of the Internet to society
+* understand differences between proprietary and free software operating systems
+* explain the possibilities of developing communication technology for businesses
+* understand the importance of the Internet to society
 
 # Contents
 Themes in this subject include:

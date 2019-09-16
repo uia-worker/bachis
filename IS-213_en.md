@@ -8,7 +8,7 @@ IS-213 "Open Source" (recommends using the English name instead of "Open source 
 IT and information systems, bachelor program
 
 # Language of instruction
-Norwegian
+Norwegian or English
 
 # Prerequisites
 IS-105 or equivalent

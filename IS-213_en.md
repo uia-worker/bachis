@@ -8,7 +8,7 @@ IS-213 "Open Source" (recommends using the English name instead of "Open source 
 IT and information systems, bachelor program
 
 # Language of instruction
-Norwegian or English
+Norwegian, English when international students attending
 
 # Prerequisites
 IS-105 or equivalent
@@ -18,8 +18,8 @@ Knowledge of programming and system development methods is an advantage.
 
 # Learning outcome
 After completing the course the students will:
-* be able to hold a qualified discussion on history, licenses, philosophy, innovation and policy on the concept of "open source";
-* be able to define, plan, start, manage and execute a development project using distinctive tools and architectures that largely define the "open source" culture;
+* be able to hold a qualified discussion on history, licenses, philosophy, innovation and policy on the concept of "open source"
+* be able to define, plan, start, manage and execute a development project using distinctive tools and architectures that largely define the "open source" culture
 * be able to critically evaluate applications for "open source"
 
 # Contents
@@ -33,21 +33,21 @@ Students solve tasks in groups.
 Functions in the Canvas web application are used to stimulate both individual and team-based learning.
 Expected work volume is 10 hours per week.
 
-# Terms for graduation
+# Examination requirements
 Approved theoretical essays.
 Several milestone presentations of project status throughout the semester.
 
-# Exam
+# Assessment methods and criteria
 Portfolio assessment
 
-# Student evaluation
+# Evaluation
 The study program leader, in consultation with the student union representative, determines the form of evaluation and whether the courses should have mid-term or final evaluation, cf. the quality system chapter 4.1. Information about the evaluation form for the topic is published in Canvas.
 
 # Offered as a single subject
-Yes, subject to opportunity and capacity.
+Yes, subject to availability and capacity.
 
 # Open to private list
-no
+No
 
 # Assessment scheme for private students
 Not applicable
